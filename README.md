@@ -206,4 +206,4 @@ however, connecting with governments is probably most important to show
 a market demand.
 
 ## See also
-For more information, see the wiki, e.g.: https://github.com/jamesray1/iwr/wiki/Design-ideas-and-MVP and https://github.com/jamesray1/iwr/wiki/Contact-checklist.
+For more information, see the wiki, e.g.: https://github.com/iwr-wasteless/iwr/wiki/Design-ideas-and-MVP and https://github.com/iwr-wasteless/iwr/wiki/Contact-checklist.
